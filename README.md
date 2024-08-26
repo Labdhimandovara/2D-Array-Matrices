@@ -7,6 +7,7 @@ Theory: A 2D array is a collection of elements arranged in rows and columns, for
 
 Declaration and Initialization:
 Declare a 2D array using the syntax: int arr[rows][columns];
+
 Initialize it directly with an initializer list, e.g., int test[2][3] = {{2, 4, 5}, {9, 0, 19}};
 
 Accessing Elements:
